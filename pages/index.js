@@ -24,13 +24,13 @@ const Home = () => (
 
         <a href="https://hns.to/" className="card">
           <h3>HNS.to</h3>
-          <p>Resolve Handshake names without configuring your DNS!</p>
+          <p>Resolve Handshake names without configuring your DNS! Some Handshake sites not yet supported.</p>
         </a>
 
         <a
           href="https://learn.namebase.io/" className="card">
           <h3>Learning Center</h3>
-          <p>Learn about all-things Handshake and Namebase related.</p>
+          <p>Get started with walkthroughs and learn about all-things Handshake and Namebase.</p>
         </a>
 
         <a
