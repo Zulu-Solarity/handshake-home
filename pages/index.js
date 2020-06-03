@@ -9,11 +9,11 @@ const Home = () => (
 
     <main>
       <h1 className="title">
-        Welcome to Johnny Wu's <a href="https://handshake.org/">Handshake</a> page!
+        Welcome to Johnny Wu's <a href="https://handshake.org/" style="#0C75FF" >Handshake</a> page!
       </h1>
 
       <p className="description">
-        You can build this too with <a href="https://vercel.com">Vercel</a> and <a href="https://learn.namebase.io/starting-from-zero/how-to-use-handshake-names#vercel">this</a> guide.
+        You can build this too with <a href="https://vercel.com" style="#0C75FF">Vercel</a> and <a href="https://learn.namebase.io/starting-from-zero/how-to-use-handshake-names#vercel" style="#0C75FF">this</a> guide.
       </p>
 
       <div className="grid">
@@ -53,7 +53,7 @@ const Home = () => (
         target="_blank"
         rel="noopener noreferrer"
       >
-        <img src="https://pbs.twimg.com/profile_images/1042164618259456000/FxRjrkBL_400x400.jpg" alt="Namebase Logo" width="100" height="100"/> Namebase
+        <img src="https://pbs.twimg.com/profile_images/1042164618259456000/FxRjrkBL_400x400.jpg" alt="Namebase Logo" width="100" height="100"/>
       </a>
     </footer>
 
