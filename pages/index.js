@@ -19,7 +19,7 @@ const Home = () => (
       <div className="grid">
         <a href="https://calendly.com/namebase/concierge-onboarding" className="card">
           <h3>Let's Chat!</h3>
-          <p>Schedule a 15 minute 1-on-1 session where I'll walk you through how to use Namebase and/or Handshake and also answer any questions you may have.</p>
+          <p>Schedule a 15 minute 1-on-1 chat with me and I'll address any of your Handshake questions.</p>
         </a>
 
         <a href="https://hns.to/" className="card">
@@ -37,7 +37,7 @@ const Home = () => (
           href="https://discord.gg/V3aTrkp" className="card">
           <h3>Namer Community</h3>
           <p>
-            The quickest place to get any of your Handshake questions answered, and you'll also stay the most up-to-date on all things Handshake and Namebase related — from HNS price discussions to product-updates.
+            Stay the most up-to-date on all things Handshake and Namebase related.
           </p>
         </a>
       </div>
