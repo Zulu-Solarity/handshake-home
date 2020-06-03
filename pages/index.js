@@ -9,11 +9,11 @@ const Home = () => (
 
     <main>
       <h1 className="title">
-        Welcome to Johnny Wu's <a href="https://nextjs.org">Next.js page!</a>
+        Welcome to Johnny Wu's <a href="https://handshake.org/">Handshake</a> page!
       </h1>
 
       <p className="description">
-        Get started by editing <code>pages/index.js</code>
+        You can build this too with <a href="https://vercel.com">Vercel</a> and <a href="https://learn.namebase.io/starting-from-zero/how-to-use-handshake-names#vercel">this</a> guide.
       </p>
 
       <div className="grid">
@@ -49,11 +49,11 @@ const Home = () => (
 
     <footer>
       <a
-        href="https://vercel.com?utm_source=create-next-app&utm_medium=default-template&utm_campaign=create-next-app"
+        href="https://www.namebase.io/"
         target="_blank"
         rel="noopener noreferrer"
       >
-        Powered by <img src="/vercel.svg" alt="Vercel Logo" />
+        <img src="https://pbs.twimg.com/profile_images/1042164618259456000/FxRjrkBL_400x400.jpg" alt="Namebase Logo" width="100" height="100"/> Namebase
       </a>
     </footer>
 
