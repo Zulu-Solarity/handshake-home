@@ -17,31 +17,27 @@ const Home = () => (
       </p>
 
       <div className="grid">
-        <a href="https://nextjs.org/docs" className="card">
-          <h3>Documentation &rarr;</h3>
-          <p>Find in-depth information about Next.js features and API.</p>
+        <a href="https://calendly.com/namebase/concierge-onboarding" className="card">
+          <h3>Let's Chat!</h3>
+          <p>Schedule a 15 minute 1-on-1 session where I'll walk you through how to use Namebase and/or Handshake and also answer any questions you may have.</p>
         </a>
 
-        <a href="https://nextjs.org/learn" className="card">
-          <h3>Learn &rarr;</h3>
-          <p>Learn about Next.js in an interactive course with quizzes!</p>
-        </a>
-
-        <a
-          href="https://github.com/zeit/next.js/tree/master/examples"
-          className="card"
-        >
-          <h3>Examples &rarr;</h3>
-          <p>Discover and deploy boilerplate example Next.js projects.</p>
+        <a href="https://hns.to/" className="card">
+          <h3>HNS.to</h3>
+          <p>Resolve Handshake names without configuring your DNS!</p>
         </a>
 
         <a
-          href="https://vercel.com/new?filter=next.js&utm_source=create-next-app&utm_medium=default-template&utm_campaign=create-next-app"
-          className="card"
-        >
-          <h3>Deploy &rarr;</h3>
+          href="https://learn.namebase.io/" className="card">
+          <h3>Learning Center</h3>
+          <p>Learn about all-things Handshake and Namebase related.</p>
+        </a>
+
+        <a
+          href="https://discord.gg/V3aTrkp" className="card">
+          <h3>Namer Community</h3>
           <p>
-            Instantly deploy your Next.js site to a public URL with Vercel.
+            The quickest place to get any of your Handshake questions answered, and you'll also stay the most up-to-date on all things Handshake and Namebase related — from HNS price discussions to product-updates.
           </p>
         </a>
       </div>
