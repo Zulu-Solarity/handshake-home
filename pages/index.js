@@ -19,7 +19,7 @@ const Home = () => (
       <div className="grid">
         <a href="https://calendly.com/namebase/concierge-onboarding" className="card">
           <h3>Let's Chat!</h3>
-          <p>Schedule a 15 minute 1-on-1 chat with me and I'll address any of your Handshake questions.</p>
+          <p>Schedule a 15 minute 1-on-1 chat with me and I'll address any of your questions about Handshake.</p>
         </a>
 
         <a href="https://hns.to/" className="card">
