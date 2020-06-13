@@ -24,7 +24,7 @@ const Home = () => (
 
         <a href="https://hns.to/" className="card">
           <h3>HNS.to</h3>
-          <p>Resolve Handshake names without configuring your DNS! Some Handshake sites not yet supported.</p>
+          <p>An alternative search engine that natively resolves Handshake names without configuring anything.</p>
         </a>
 
         <a
