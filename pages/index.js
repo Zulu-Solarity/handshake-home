@@ -24,20 +24,20 @@ const Home = () => (
 
         <a href="https://hns.to/" className="card">
           <h3>HNS.to</h3>
-          <p>An alternative search engine that natively resolves Handshake names without configuring anything.</p>
+          <p>An alternative search engine that can natively resolve Handshake names without configuring anything.</p>
         </a>
 
         <a
           href="https://learn.namebase.io/" className="card">
           <h3>Learning Center</h3>
-          <p>Get started with walkthroughs and learn about all-things Handshake and Namebase.</p>
+          <p>Get started with walkthroughs and learn about Handshake and Namebase.</p>
         </a>
 
         <a
           href="https://discord.gg/V3aTrkp" className="card">
           <h3>Namer Community</h3>
           <p>
-            Stay the most up-to-date on all things Handshake and Namebase related.
+            Stay the most up-to-date on all things Handshake and Namebase.
           </p>
         </a>
       </div>
