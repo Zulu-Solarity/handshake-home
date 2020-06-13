@@ -24,7 +24,7 @@ const Home = () => (
 
         <a href="https://hns.to/" className="card">
           <h3>HNS.to</h3>
-          <p>An alternative search engine that can natively resolve Handshake names without configuring anything.</p>
+          <p>An alternative search engine that natively resolves Handshake names.</p>
         </a>
 
         <a
@@ -37,7 +37,7 @@ const Home = () => (
           href="https://discord.gg/V3aTrkp" className="card">
           <h3>Namer Community</h3>
           <p>
-            Stay the most up-to-date on all things Handshake and Namebase.
+            Stay the most up-to-date on all things relevant to Handshake and Namebase.
           </p>
         </a>
       </div>
