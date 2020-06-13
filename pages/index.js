@@ -3,7 +3,7 @@ import Head from 'next/head'
 const Home = () => (
   <div className="container">
     <Head>
-      <title>Jay Wu Home</title>
+      <title>Home</title>
       <link rel="icon" href="/favicon.ico" />
     </Head>
 
