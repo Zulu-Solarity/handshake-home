@@ -37,7 +37,7 @@ const Home = () => (
           href="https://discord.gg/V3aTrkp" className="card">
           <h3>Namer Community</h3>
           <p>
-            Stay the most up-to-date on all things relevant to Handshake and Namebase.
+            Stay up-to-date on all things Handshake and collaborate on accelerating its growth.
           </p>
         </a>
       </div>
