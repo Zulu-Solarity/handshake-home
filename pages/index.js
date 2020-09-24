@@ -28,7 +28,7 @@ const Home = () => (
         </a>
 
         <a
-          href="Handshake readings" className="card">
+          href="https://medium.com/@jaywuzer" className="card">
           <h3>Medium</h3>
           <p>Read my articles about Handshake here.</p>
         </a>
