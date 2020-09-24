@@ -19,12 +19,12 @@ const Home = () => (
       <div className="grid">
         <a href="https://calendly.com/namebase" className="card">
           <h3>Let's Chat!</h3>
-          <p>Schedule a 1-on-1 chat with me directly on my calendar to discuss Handshake.</p>
+          <p>Schedule a 1-on-1 chat with me directly on my calendar to chat Handshake.</p>
         </a>
 
         <a href="https://hns.to/" className="card">
           <h3>HNS.to</h3>
-          <p>An alternative search engine that natively resolves Handshake names.</p>
+          <p>Use this to reach Handshake domains.</p>
         </a>
 
         <a
@@ -37,7 +37,7 @@ const Home = () => (
           href="https://discord.gg/V3aTrkp" className="card">
           <h3>Namer Community</h3>
           <p>
-            Stay up-to-date on all things Handshake and collaborate on accelerating its growth.
+            Help Handshake reach its fullest potential.
           </p>
         </a>
       </div>
