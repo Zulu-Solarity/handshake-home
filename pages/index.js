@@ -37,7 +37,7 @@ const Home = () => (
           href="https://discord.gg/V3aTrkp" className="card">
           <h3>Namer Community</h3>
           <p>
-            Join us on Discord.
+            Talk Handshake on Discord.
           </p>
         </a>
       </div>
