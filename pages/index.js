@@ -24,20 +24,20 @@ const Home = () => (
 
         <a href="https://hns.to/" className="card">
           <h3>HNS.to</h3>
-          <p>Use this to reach Handshake domains.</p>
+          <p>Use this for Handshake domains.</p>
         </a>
 
         <a
           href="https://medium.com/@jaywuzer" className="card">
           <h3>Medium</h3>
-          <p>Read my articles about Handshake here.</p>
+          <p>Read my articles on Handshake.</p>
         </a>
 
         <a
           href="https://discord.gg/V3aTrkp" className="card">
           <h3>Namer Community</h3>
           <p>
-            Help Handshake reach its fullest potential.
+            Join us on Discord.
           </p>
         </a>
       </div>
