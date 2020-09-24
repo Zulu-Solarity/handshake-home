@@ -19,7 +19,7 @@ const Home = () => (
       <div className="grid">
         <a href="https://calendly.com/namebase" className="card">
           <h3>Let's Chat!</h3>
-          <p>Schedule a 1-on-1 chat with me directly on my calendar to chat Handshake.</p>
+          <p>Pick a time that works best for you.</p>
         </a>
 
         <a href="https://hns.to/" className="card">
