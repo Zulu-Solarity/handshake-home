@@ -121,7 +121,7 @@ const Home = () => (
       }
 
       code {
-        background: #fafafa;
+        background: #000000;
         border-radius: 5px;
         padding: 0.75rem;
         font-size: 1.1rem;
@@ -146,7 +146,7 @@ const Home = () => (
         text-align: left;
         color: inherit;
         text-decoration: none;
-        border: 1px solid #eaeaea;
+        border: 1px solid #ffffff;
         border-radius: 10px;
         transition: color 0.15s ease, border-color 0.15s ease;
       }
@@ -154,8 +154,8 @@ const Home = () => (
       .card:hover,
       .card:focus,
       .card:active {
-        color: #0070f3;
-        border-color: #0070f3;
+        color: #0c75ff;
+        border-color: #0c75ff;
       }
 
       .card h3 {
