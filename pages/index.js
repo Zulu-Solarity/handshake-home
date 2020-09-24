@@ -28,9 +28,9 @@ const Home = () => (
         </a>
 
         <a
-          href="https://learn.namebase.io/" className="card">
-          <h3>Learning Center</h3>
-          <p>Get started with walkthroughs and learn about Handshake and Namebase.</p>
+          href="Handshake readings" className="card">
+          <h3>Medium</h3>
+          <p>Read my articles about Handshake here.</p>
         </a>
 
         <a
