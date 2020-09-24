@@ -30,7 +30,7 @@ const Home = () => (
         <a
           href="https://medium.com/@jaywuzer" className="card">
           <h3>Medium</h3>
-          <p>Read my articles about Handshake.</p>
+          <p>Read my articles on Handshake.</p>
         </a>
 
         <a
@@ -121,7 +121,7 @@ const Home = () => (
       }
 
       code {
-        background: #000000;
+        background: #fafafa;
         border-radius: 5px;
         padding: 0.75rem;
         font-size: 1.1rem;
@@ -146,7 +146,7 @@ const Home = () => (
         text-align: left;
         color: inherit;
         text-decoration: none;
-        border: 1px solid #ffffff;
+        border: 1px solid #eaeaea;
         border-radius: 10px;
         transition: color 0.15s ease, border-color 0.15s ease;
       }
@@ -154,8 +154,8 @@ const Home = () => (
       .card:hover,
       .card:focus,
       .card:active {
-        color: #0c75ff;
-        border-color: #0c75ff;
+        color: #0070f3;
+        border-color: #0070f3;
       }
 
       .card h3 {
@@ -182,7 +182,6 @@ const Home = () => (
       body {
         padding: 0;
         margin: 0;
-        background: #000000
         font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen,
           Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
       }
