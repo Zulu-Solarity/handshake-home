@@ -128,7 +128,7 @@ const Home = () => (
       .description a:focus,
       .description a:active {
         text-decoration: underline;
-        color: #0c75FF;
+        color: #FEAE00;
 
       }
       code {
