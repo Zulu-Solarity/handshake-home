@@ -15,6 +15,10 @@ const Home = () => (
       <p className="description">
         You can build this too with <a href="https://learn.namebase.io/starting-from-zero/how-to-use-handshake-names#vercel">this guide</a>.
       </p>
+  
+       <p className="description">
+        Handshake is the only way to truly own <a href="https://namebase.io/domains">.yourname/</a> on the Internet. As part of the decentralized web movement, our community is taking the Internet back from the handful of corporations who currently own it and placing it into the hands of the people by dismantling ICANN's monopoly on top-level domains (.com, .org, .io are all top-level domains controlled by ICANN). I'm always happy to talk about Handshake with anyone, so grab a time that works best for you to chat below!
+      </p>
 
       <div className="grid">
         <a href="https://calendly.com/namebase" className="card">
@@ -29,8 +33,8 @@ const Home = () => (
 
         <a
           href="https://jaywuzer.medium.com/" className="card">
-          <h3>Medium</h3>
-          <p>Read my articles on Handshake.</p>
+          <h3>Learning Center</h3>
+          <p>Learn more about Handshake.</p>
         </a>
 
         <a
