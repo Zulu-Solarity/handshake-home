@@ -58,7 +58,7 @@ const Home = () => (
         flex-direction: column;
         justify-content: center;
         align-items: center;
-        color: #FFFFFFF;
+        color: #FFFFFF;
         background-color: #000000
       }
 
@@ -91,12 +91,12 @@ const Home = () => (
       }
 
       a {
-        color: #FEAE00;
+        color: #0c75FF;
         text-decoration: none;
       }
 
       .title a {
-        color: #FEAE00;
+        color: #0c75FF;
         text-decoration: none;
       }
 
@@ -104,7 +104,8 @@ const Home = () => (
       .title a:focus,
       .title a:active {
         text-decoration: underline;
-        color: #0c75FF
+        color: #FEAE00;
+
       }
 
       .title {
@@ -147,9 +148,9 @@ const Home = () => (
         flex-basis: 45%;
         padding: 1.5rem;
         text-align: left;
-        color: #FEAE00;
+        color: #0C75FF;
         text-decoration: none;
-        border: 1px solid #FEAE00;
+        border: 1px solid #0C75FF;
         border-radius: 10px;
         transition: color 0.15s ease, border-color 0.15s ease;
       }
@@ -157,8 +158,8 @@ const Home = () => (
       .card:hover,
       .card:focus,
       .card:active {
-        color: #0C75FF;
-        border-color: #0C75FF;
+        color: #FEAE00;
+        border-color: #FEAE00;
       }
 
       .card h3 {
