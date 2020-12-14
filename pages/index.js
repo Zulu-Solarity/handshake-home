@@ -32,7 +32,7 @@ const Home = () => (
         </a>
 
         <a
-          href="https://jaywuzer.medium.com/" className="card">
+          href="https://learn.namebase.io" className="card">
           <h3>Learning Center</h3>
           <p>Learn more about Handshake.</p>
         </a>
