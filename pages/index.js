@@ -91,12 +91,12 @@ const Home = () => (
       }
 
       a {
-        color: #FEAE00;
+        color: #0c75FF;
         text-decoration: none;
       }
 
       .title a {
-        color: #FEAE00;
+        color: #0c75FF;
         text-decoration: none;
       }
 
@@ -104,7 +104,7 @@ const Home = () => (
       .title a:focus,
       .title a:active {
         text-decoration: underline;
-        color: #0c75FF;
+        color: #FEAE00;
 
       }
 
@@ -124,6 +124,13 @@ const Home = () => (
         font-size: 1.5rem;
       }
 
+      .description a:hover,
+      .description a:focus,
+      .description a:active {
+        text-decoration: underline;
+        color: #0c75FF;
+
+      }
       code {
         background: #fafafa;
         border-radius: 5px;
