@@ -46,7 +46,7 @@ const Home = () => (
     <footer>
       <a
         href="https://www.namebase.io/">
-        <img src="https://pbs.twimg.com/profile_images/1042164618259456000/FxRjrkBL_400x400.jpg" alt="Namebase Logo" width="100" height="100"/>
+        <img src="/Namer Community Logo.gif" alt="Namebase Logo" width="70" height="70"/>
       </a>
     </footer>
 
