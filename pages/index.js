@@ -46,7 +46,7 @@ const Home = () => (
     <footer>
       <a
         href="https://www.namebase.io/">
-        <img src="/Namer Community Logo.gif" alt="Namebase Logo" width="70" height="70"/>
+        <img src="/Namer Community Logo Full.gif" alt="Namebase Logo" width="70" height="70"/>
       </a>
     </footer>
 
@@ -58,6 +58,8 @@ const Home = () => (
         flex-direction: column;
         justify-content: center;
         align-items: center;
+        color: #FFFFFFF;
+        background-color: #000000
       }
 
       main {
@@ -89,12 +91,12 @@ const Home = () => (
       }
 
       a {
-        color: #0C75FF;
+        color: #FEAE00;
         text-decoration: none;
       }
 
       .title a {
-        color: #0070f3;
+        color: #FEAE00;
         text-decoration: none;
       }
 
@@ -102,6 +104,7 @@ const Home = () => (
       .title a:focus,
       .title a:active {
         text-decoration: underline;
+        color: #0c75FF
       }
 
       .title {
@@ -144,9 +147,9 @@ const Home = () => (
         flex-basis: 45%;
         padding: 1.5rem;
         text-align: left;
-        color: inherit;
+        color: #FEAE00;
         text-decoration: none;
-        border: 1px solid #eaeaea;
+        border: 1px solid #FEAE00;
         border-radius: 10px;
         transition: color 0.15s ease, border-color 0.15s ease;
       }
@@ -154,8 +157,8 @@ const Home = () => (
       .card:hover,
       .card:focus,
       .card:active {
-        color: #0070f3;
-        border-color: #0070f3;
+        color: #0C75FF;
+        border-color: #0C75FF;
       }
 
       .card h3 {
