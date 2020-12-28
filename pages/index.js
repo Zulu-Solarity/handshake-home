@@ -17,7 +17,7 @@ const Home = () => (
       </p>
   
        <p className="description">
-        Handshake is the only way to truly own .yourname/ on the Internet. Because I own <a href="https://hns.to/johnnywu/">johnnywu/</a>, I also own <a href="https://hns.to/home.johnnywu/">home.johnnywu/</a>, <a href="https://hns.to/linkedin.johnnywu/">linkedin.johnnywu/</a>, and <a href="https://hns.to/youtube.johnnywu/">youtube.johnnywu/</a>, and because it lives on the Handshake blockchain, no government or corporation can ever seize johnnywu/ from me. I'm always happy to talk about Handshake, so grab a time to chat with me below!
+        Handshake is the only way to truly own .yourname/ on the Internet. Because I own <a href="https://hns.to/johnnywu/">.johnnywu/</a>, I also own <a href="https://hns.to/home.johnnywu/">home.johnnywu/</a>, <a href="https://hns.to/linkedin.johnnywu/">linkedin.johnnywu/</a>, and <a href="https://hns.to/youtube.johnnywu/">youtube.johnnywu/</a>, and because it lives on the Handshake blockchain, no government or corporation can ever seize .johnnywu/ from me. I'm always happy to talk about Handshake, so grab a time to chat with me below!
       </p>
 
       <div className="grid">
