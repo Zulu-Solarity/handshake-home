@@ -13,7 +13,7 @@ const Home = () => (
       </h1>
 
       <p className="description">
-        You can build this too with <a href="https://learn.namebase.io/starting-from-zero/how-to-use-handshake-names#vercel">this guide</a>.
+        You can build this too with <a href="https://learn.namebase.io/starting-from-zero/how-to-create-a-handshake-website#vercel">this guide</a>.
       </p>
   
        <p className="description">
