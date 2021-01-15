@@ -38,10 +38,10 @@ const Home = () => (
         </a>
 
         <a
-          href="https://discord.gg/V3aTrkp" className="card">
+          href="https://community.namebase.io" className="card">
           <h3>Namer Community</h3>
           <p>
-            Talk Handshake on Discord.
+            Community landing page.
           </p>
         </a>
       </div>
