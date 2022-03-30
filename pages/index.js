@@ -9,7 +9,7 @@ const Home = () => (
 
     <main>
       <h1 className="title">
-        Welcome to Johnny Wu's <a href="https://learn.namebase.io/about-handshake/about-handshake" >Handshake</a> page!
+        Welcome to Solarity's <a href="https://linktr.ee/Solarity_Zulu" >Handshake</a> page!
       </h1>
 
       <p className="description">
